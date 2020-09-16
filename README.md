@@ -1,13 +1,7 @@
 <!DOCTYPE html>
-<style>
-  img {
-    height: 300px;
-    width: 400px;
-  }
-</style>
   <h1>Hello There</h1>
   <h3>Here is my rendition of the Standard Google Homepage.</h3>
-  <img src="https://cdn.vox-cdn.com/thumbor/Pkmq1nm3skO0-j693JTMd7RL0Zk=/0x0:2012x1341/1200x800/filters:focal(0x0:2012x1341)/cdn.vox-cdn.com/uploads/chorus_image/image/47070706/google2.0.0.jpg"<hr>
+  <img style="height: 200px; width: 400px;"src="https://cdn.vox-cdn.com/thumbor/Pkmq1nm3skO0-j693JTMd7RL0Zk=/0x0:2012x1341/1200x800/filters:focal(0x0:2012x1341)/cdn.vox-cdn.com/uploads/chorus_image/image/47070706/google2.0.0.jpg"<hr>
   <h4>Things I've Learned</h4>
   <ul>
     <li><h5>Beginninng to understand the "float" property in CSS. The float property was used to float the links on the top and the bottom of the page.</h5></li>
