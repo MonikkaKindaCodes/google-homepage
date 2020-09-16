@@ -1,8 +1,8 @@
 <!DOCTYPE html>
   <h1>Hello There</h1>
   <h3>Here is my rendition of the Standard Google Homepage.</h3>
- 
- 
+  <img src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png" alt="Standard Google Logo">
+  <hr>
   <h4>Things I've Learned</h4>
   <ul>
     <li><h5>Beginninng to understand the "float" property in CSS. The float property was used to float the links on the top and the bottom of the page.</h5></li>
